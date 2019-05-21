@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9e5de8b282b44fbcd9d3fbd5549a507",
+    "revision": "d1a7a7d6a5e30ac2f8ec93c7f521e120",
     "url": "/bicycles-app-store/index.html"
   },
   {
-    "revision": "8bf3a3addc572ef28f76",
+    "revision": "05b05069f7a4b7f51625",
     "url": "/bicycles-app-store/static/css/main.92368797.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bicycles-app-store/static/js/2.0b3d3c7c.chunk.js"
   },
   {
-    "revision": "8bf3a3addc572ef28f76",
-    "url": "/bicycles-app-store/static/js/main.8f81b874.chunk.js"
+    "revision": "05b05069f7a4b7f51625",
+    "url": "/bicycles-app-store/static/js/main.46b0775f.chunk.js"
   },
   {
     "revision": "7c8841d8fd0bb38744cd",
