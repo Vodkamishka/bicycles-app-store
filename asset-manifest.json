@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bicycles-app-store/static/css/main.c0d09cf0.chunk.css",
-    "main.js": "/bicycles-app-store/static/js/main.3bf3fa35.chunk.js",
-    "main.js.map": "/bicycles-app-store/static/js/main.3bf3fa35.chunk.js.map",
+    "main.css": "/bicycles-app-store/static/css/main.92368797.chunk.css",
+    "main.js": "/bicycles-app-store/static/js/main.b946612c.chunk.js",
+    "main.js.map": "/bicycles-app-store/static/js/main.b946612c.chunk.js.map",
     "runtime~main.js": "/bicycles-app-store/static/js/runtime~main.3463c26d.js",
     "runtime~main.js.map": "/bicycles-app-store/static/js/runtime~main.3463c26d.js.map",
     "static/js/2.0b3d3c7c.chunk.js": "/bicycles-app-store/static/js/2.0b3d3c7c.chunk.js",
     "static/js/2.0b3d3c7c.chunk.js.map": "/bicycles-app-store/static/js/2.0b3d3c7c.chunk.js.map",
     "index.html": "/bicycles-app-store/index.html",
-    "precache-manifest.263f4a50e3af137631d086af8395810b.js": "/bicycles-app-store/precache-manifest.263f4a50e3af137631d086af8395810b.js",
+    "precache-manifest.af8b0f48b03e54c750360e3c27d5d5fd.js": "/bicycles-app-store/precache-manifest.af8b0f48b03e54c750360e3c27d5d5fd.js",
     "service-worker.js": "/bicycles-app-store/service-worker.js",
-    "static/css/main.c0d09cf0.chunk.css.map": "/bicycles-app-store/static/css/main.c0d09cf0.chunk.css.map"
+    "static/css/main.92368797.chunk.css.map": "/bicycles-app-store/static/css/main.92368797.chunk.css.map"
   }
 }
