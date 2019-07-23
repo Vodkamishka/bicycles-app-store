@@ -1,0 +1,50 @@
+.module-card {
+    width: 100%;
+    height: 190px;
+    margin: 5%;
+    overflow: hidden;
+    font-family: 'Ubuntu Mono', monospace;
+    transition: 0.5s;
+}
+.module-card:hover {
+    transform: scale(1.2);
+    border: 1px solid goldenrod;
+}
+.module-card-image {
+    height: 130px;
+}
+.module-card-image img {
+    height: 100%;
+    width: 100%;
+}
+.module-card-footer {
+    height: 60px;
+    
+}
+.module .title {
+    font-weight: bold;
+    justify-content: center;
+    font-size: 20px; 
+}
+.module-card .name {
+    font-size: 14px;
+}
+.module-fas-collection {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.module-fas-collection .fas {
+    background: rgba(0,0,0,0.5);
+    font-size: 20px;
+    color: white;
+    margin: 5px;
+    padding: 8px;
+    transition: 1s;
+}
+.module-fas-collection .fas:hover {
+    background: aqua;
+    
+    color:  black;
+}

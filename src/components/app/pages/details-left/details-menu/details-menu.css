@@ -1,0 +1,27 @@
+.details-menu {
+    width: 100%;
+    font-family: 'Oranienbaum', serif; 
+}
+.details-menu .details-frame-menu{
+   width: 300px;
+   padding-top: 100px; 
+}
+.details-menu .details-frame-menu ul li{
+    list-style-type: none;
+    font-size: 18px;
+    padding: 1.5% 5%;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border: 1px solid white;   
+}
+.details-menu .details-frame-menu ul li:hover {
+    color: goldenrod;
+    background: black;
+}
+.details-menu .category {
+    background: black;
+    color: white;
+}
+.details-menu a  {
+    color: black; 
+}

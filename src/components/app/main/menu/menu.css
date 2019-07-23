@@ -1,0 +1,31 @@
+ .bodyMenu {
+     background: tomato;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+ }
+ .menu {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+ }
+ .menu ul li {
+    text-align: center;
+     color: white;
+     list-style-type: none;
+     font-size: 6vh;
+     padding: 2.3vh;
+     transition: 1s;
+     font-family: 'Cormorant Infant', serif; 
+ }
+ .menu ul li:hover {
+     color: black;
+ }
+ .menu a {
+    text-decoration: none;
+ }

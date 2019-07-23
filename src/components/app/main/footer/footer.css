@@ -1,0 +1,14 @@
+.footer {
+    background: MediumAquaMarine  ;  
+}
+.footer .fab {
+    color: white;
+    padding: 10px;
+    background: teal;
+    border-radius: 50%;
+    transition: 1s;
+}
+.footer .fab:hover {
+    background: tomato;
+}
+

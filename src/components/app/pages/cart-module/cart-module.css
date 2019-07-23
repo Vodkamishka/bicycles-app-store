@@ -1,0 +1,18 @@
+
+.shop {
+    font-size: 21px;  
+}
+.empty {
+    font-size: 30px;
+    font-family: 'Marck Script', cursive;
+}
+.cart-button {
+    padding: 5px 10px;
+    background: steelblue;
+    color: white;
+}
+.cart-button:hover {
+    background: goldenrod;
+    color: black;
+}
+

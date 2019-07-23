@@ -1,0 +1,27 @@
+
+.details-right {
+    width: 100%;
+    height: 100%;  
+}
+.details-right-big-picture {
+    width: 53vw;
+    height: 30vw;
+    padding-top: 5%; 
+}
+.details-right-big-picture img {
+    width: 100%;
+    height: 100%;
+    
+}
+.details-right-description-bicycle {
+    padding-top: 5%;
+    margin-left: 5%;  
+}
+.details-right button {
+    width: 200px;
+    font-weight: 600;
+   
+}
+
+
+

@@ -1,0 +1,55 @@
+.details-slider {
+    height: 450px;
+    transition: 2s;
+}
+.details-slider-frame {
+    position: relative;
+    top: 10%;
+    width: 100%;
+    height: 250px; 
+    
+}
+.details-slider-frame img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    
+   
+}
+ img.notactive.image {
+    z-index: -1;
+}
+.button-left, .button-right {
+  position: absolute;
+  font-size: 30px;
+  top: 50%;
+  transform: translate(0,-50%);
+  color: white;
+  background: rgba(0,0,0,0.5);
+  padding: 7px 9px;
+  cursor: pointer;
+}
+.button-right {
+    right: 0;
+}
+.title-bicycle {
+    position: absolute;
+    text-align: center;
+    font-weight: 600;
+    top: 110%;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.title-bicycle.notactive {
+  opacity: 0;
+}
+.name-bicycle {
+    font-size: 20px;
+    padding: 5px;
+}
+.price-bicycle {
+    font-size: 18px;
+}
+.details-slider a {
+    color: black;
+}

@@ -1,0 +1,23 @@
+.in-cart-image {
+    width: 100px;
+    height: 80px;
+    
+}
+.bicycle-in-cart .col-9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.in-cart-image img {
+    width: 100%;
+    height: 100%;
+}
+.arifmethic {
+    padding: 5px 15px;
+}
+.arifmethic:hover {
+    background: aqua;
+}
+.fa-trash {
+    color: aqua;
+}

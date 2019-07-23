@@ -1,0 +1,26 @@
+.side-panel {
+    width: 336px;
+    height: 440px;
+    position: fixed;
+    transition: 1s;
+    z-index: 100000;
+    background: white;
+    overflow: hidden;
+}
+
+.wheel {
+    background: white;
+    padding: 14px;
+    position: fixed;
+    font-size: 30px;
+    border-radius: 10px;
+    top: 13%;
+    transition: 1s;
+}
+.panel {
+    width: 100%;
+    height: 100%;
+}
+.wheel .fas {
+    transition: 1s;
+}

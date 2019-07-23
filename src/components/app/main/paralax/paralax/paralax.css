@@ -1,0 +1,63 @@
+.paralax {
+    height: 100%;
+    text-align: center;
+}
+.image {
+    transition: 1s;
+}
+.paralax .image1 {
+    background-image: url('https://vodkamishka.github.io/bicycles-app-store/images/bicycle3.jpg');
+    min-height: 100%;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    z-index: -2; 
+    width: 100%;   
+}
+.paralax .image2 {
+    background-image: url('https://vodkamishka.github.io/bicycles-app-store/images/bicycle1.jpg');
+    min-height: 100%;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    opacity: 0;
+    z-index: -2; 
+    width: 100%;   
+}
+.paralax .text {
+    z-index: -1;
+    left: 50%;
+    top: 50%;
+    text-shadow: 1px 1px 1px black;
+    font-weight: 600;
+    transition: 1s;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
+.paralax .text .title {  
+    font-size: 150px;
+    font-family: 'Crimson Text', serif;
+    text-transform: capitalize;
+    
+}
+.paralax .text .ptext {
+    margin-top: 5%;
+    font-size: 30px;
+}
+
+
+@media  (max-width: 1130px) {
+    .paralax .text .title {
+        font-size: 100px;
+    }
+}
+@media  (max-width: 760px) {
+    .paralax .text .title {
+        font-size: 50px;
+    }
+}

@@ -1,0 +1,22 @@
+.cart {
+    position: fixed;
+    z-index: 10000;
+    left: 2%;
+    top: 3%;
+    height: 55px;
+    color: black;
+}
+.cart .left, .right {
+    display: inline-block;
+    margin: 10px;
+}
+.cart .left {
+    font-size: 35px;
+}
+.cart .right {
+    font-weight: 800;
+    font-size: 18px;
+    position: relative;
+    bottom: 4px;
+}
+
